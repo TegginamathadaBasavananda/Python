@@ -1,2 +1,2 @@
 # Python
-it a learning Repo
+My Python LEarning Journey Begin here
